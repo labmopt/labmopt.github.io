@@ -7,10 +7,12 @@ permalink: /integrantes/
 ## **Integrantes**
 ### Investigadores responsables
 Dra. Karen Volke Sepúlveda
+
 Dr. Alejandro Vásquez Arzola
 
 ### Investigadores posdoctorales
 Dra. Argelia Balbuena Ortega
+
 Dr. Esteban Velez Juárez
 
 ### Estudiantes
