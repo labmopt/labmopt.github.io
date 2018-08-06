@@ -25,7 +25,7 @@ permalink: /graduados/
   * Laura Pérez García, licenciatura
 
 * 2014
-  * Mario
+  * Mario Villasante Barahona, licenciatura
   
 * 2013
   * Roland A. Terborg del Rosal, maestría
