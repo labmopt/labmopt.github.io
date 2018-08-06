@@ -24,12 +24,12 @@ permalink: /graduados/
 * 2015
   * Laura Pérez García, licenciatura
 
-* 2014
-  * Mario Villasante Barahona, licenciatura
-  
 * 2013
   * Roland A. Terborg del Rosal, maestría
   * Ruth Bustos Ramírez, licenciatura
+  
+* 2012
+  * Mario Villasante Barahona, licenciatura
   
 * 2011
   * Roland A. Terborg del Rosal, licenciatura
