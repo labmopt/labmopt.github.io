@@ -1,6 +1,6 @@
 ---
 layout: page
-title: graduados
+title: Estudiantes graduados
 permalink: /graduados/
 ---
 
