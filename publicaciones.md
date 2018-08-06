@@ -1,5 +1,4 @@
 
-## Publicaciones
 ### * 2018
 1.	Rubén D. Muelas-Hurtado, Joao L. Ealo,  Jhon F. Pazos-Ospina,  and Karen Volke-Sepúlveda,“Generation of Multiple Vortex Beam by means of Active Diffraction Gratings,” Appl. Phys. Lett. **112**: 084101 (2018).
 
@@ -8,13 +7,19 @@
 
 2. Alejandro V. Arzola, Mario Villasante-Barahona, Karen Volke-Sepúlveda, Petr Jákl, Pavel Zemánek, “Omnidirectional transport in fully reconfigurable 2D optical ratchets,” Phys. Rev. Lett. **118**: 138002 (2017). 
 
-* 2016
+### * 2016
 1.	Yareni A. Ayala, Alejandro V. Arzola, K. Volke-Sepúlveda, “3D micromanipulation at low numerical aperture with a single light beam: The focused Bessel trap,” Opt. Lett. **41** (3): 614-617 (2016).
 
 2.	Yareni A. Ayala, Alejandro V. Arzola, K. Volke-Sepúlveda, “Comparative study of optical levitation traps: focused-Bessel beam vs Gaussian beams,” JOSA B **33** (6): 1060-1067 (2016).
 
 3.	M. Y. Salazar-Romero, M. Alvares Ortíz, A. Balbuena Ortega, Y. A. Ayala, A. V. Arzola, H. Hernández-Cordero and K. Volke-Sepúlveda, “Nonlinear optical propierties of dielectric nanocoloids: particle size and concentration effects,” JNOPM **25** (4): 1650048 (2016).
 
-* 2015
+### * 2015
+
+1.	A. Díaz de Anda, K. Volke-Sepúlveda, J. Flores, C. Sánchez-Pérez, L. Gutiérrez, “Study of coupled resonators in analogous wave systems: Mechanical, elastic, and optical,” Am.J.Phys. **83** (12): 1012-1018 (2015).
+
+2.	R. Colín-Rodríguez, J. Flores-Mijangos, S. Hernández-Gómez, R. Jáuregui, O. López-Hernández, C. Mojica-Casique, F Ponciano-Ojeda, F. Ramírez-Martínez, D. Sahagún, K. Volke-Sepúlveda and J. Jiménez-Mier, “Polarization effects in the interaction between multi-level atoms and two optical fields,” Phys. Script. **90**: 068017 (7pp) (2015).
+
+
 
 
