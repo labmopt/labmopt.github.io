@@ -1,4 +1,10 @@
-## Estudiantes graduados
+---
+layout: page
+title: graduados
+permalink: /graduados/
+---
+
+
 * 2018
   * Adrián Bartolo González, maestría
   * Laura Pérez García, maestría
