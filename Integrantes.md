@@ -4,7 +4,6 @@ title: Integrantes
 permalink: /integrantes/
 ---
 
-## **Integrantes**
 ### Investigadores responsables
 Dra. Karen Volke Sepúlveda
 
