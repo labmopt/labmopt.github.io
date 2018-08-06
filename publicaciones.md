@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publicaciones
+permalink: /publicaciones/
+---
 
 ### * 2018
 1.	Rubén D. Muelas-Hurtado, Joao L. Ealo,  Jhon F. Pazos-Ospina,  and Karen Volke-Sepúlveda,“Generation of Multiple Vortex Beam by means of Active Diffraction Gratings,” Appl. Phys. Lett. **112**: 084101 (2018).
