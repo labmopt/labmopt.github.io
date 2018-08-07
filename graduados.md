@@ -33,7 +33,7 @@ permalink: /graduados/
   
 * 2011
   * Roland A. Terborg del Rosal, licenciatura
-  
+ 
 * 2010
   * R. Josué Hernández Hernández, maestría
   * Silvana Palacios Álvarez, licenciatura
