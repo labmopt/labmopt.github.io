@@ -16,9 +16,6 @@ Dr. Esteban Velez Juárez
 
 ### Estudiantes
 
-<img src="/Grupo Manipulacion Optica-15.JPG" width="400">
-En el pedregal. Mayo de 2018.
-
 * M. Yadira Salazar Romero, doctorado
 * Sebastián Bucio Pacheco, licenciatura (tesis)
 * Jaime Donlucas Pérez, licenciatura (tesis)
@@ -26,6 +23,10 @@ En el pedregal. Mayo de 2018.
 * Berenice, licenciatura (tesis)
 * Karla, licenciatura (servicio social)
 * Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
+
+<img src="/Grupo Manipulacion Optica-15.JPG" width="400">
+
+En el pedregal. Mayo de 2018.
 
 ### Integrantes anteriores
 
@@ -37,6 +38,7 @@ En el pedregal. Mayo de 2018.
 * Emma Celina Brambila 2014-2017
 
 <img src="/grupo2015.jpg" width="400">
+
 Visitando el Iztaccihuatl. Febrero de 2015.
 
 * Yareni Ayala 2014-2016
