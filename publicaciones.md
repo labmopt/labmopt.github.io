@@ -7,6 +7,9 @@ permalink: /publicaciones/
 ### 2018
 1.	Rubén D. Muelas-Hurtado, Joao L. Ealo,  Jhon F. Pazos-Ospina,  and Karen Volke-Sepúlveda,[“Generation of Multiple Vortex Beam by means of Active Diffraction Gratings,”](https://aip.scitation.org/doi/10.1063/1.5016864) Appl. Phys. Lett. **112**: 084101 (2018).
 
+2. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv](https://arxiv.org/abs/1808.03879)
+
+3. 
 ### 2017
 1. M. Yadira Salazar-Romero, Yareni A. Ayala, Emma C. Brambila, Luis A. López-Peña, K. Volke-Sepúlveda, Luke Sciberras, Antonmaria A. Minzoni, Roland A. Terborg, Juan P. Torres, “Steering and switching of soliton-like beams via interaction in a nanocolloid with positive polarizability,” Opt. Lett. **42**: 2487-2490 (2017). 
 
@@ -29,7 +32,7 @@ permalink: /publicaciones/
 
 ### 2014
 
-1. Jákl, P., Arzola, A. V.,  Siler, M., Chvátal, L., Volke-Sepulveda K. & Zemánek, P., [“Optical sorting of nonspherical and living microobjects in moving interference structures,”] (https://www.osapublishing.org/oe/abstract.cfm?uri=oe-22-24-29746) Optics Express **22**: 29746 (2014).
+1. Jákl, P., Arzola, A. V.,  Siler, M., Chvátal, L., Volke-Sepulveda K. & Zemánek, P., [“Optical sorting of nonspherical and living microobjects in moving interference structures,”](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-22-24-29746) Optics Express **22**: 29746 (2014).
 
 2. Arzola, A. V., Jákl, P., Chvátal L., Jákl, P. & Zemánek, P.  [“Rotation, oscillation and hydrodynamic synchronization of optically trapped oblate spheroidal microparticles,”](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-22-13-16207) Optics Express **22**: 16207 (2014).
 
@@ -47,4 +50,4 @@ permalink: /publicaciones/
 
 ### 2009
 
-1. A. V. Arzola, Karen Volke-Sepúlveda and José L. Mateos, [“Force mapping of an extended light pattern in an inclined plane: Deterministic regime,”] (https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-5-3429) Opt. Express **17**: 3429-3440 (2009).
+1. A. V. Arzola, Karen Volke-Sepúlveda and José L. Mateos, [“Force mapping of an extended light pattern in an inclined plane: Deterministic regime,”](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-5-3429) Opt. Express **17**: 3429-3440 (2009).
