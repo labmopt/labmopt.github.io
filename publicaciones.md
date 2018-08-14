@@ -9,7 +9,6 @@ permalink: /publicaciones/
 
 2. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv](https://arxiv.org/abs/1808.03879)
 
-3. 
 ### 2017
 1. M. Yadira Salazar-Romero, Yareni A. Ayala, Emma C. Brambila, Luis A. López-Peña, K. Volke-Sepúlveda, Luke Sciberras, Antonmaria A. Minzoni, Roland A. Terborg, Juan P. Torres, “Steering and switching of soliton-like beams via interaction in a nanocolloid with positive polarizability,” Opt. Lett. **42**: 2487-2490 (2017). 
 
