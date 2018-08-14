@@ -39,4 +39,12 @@ permalink: /publicaciones/
 
 ### 2012
 
-1. Caballero, L; Benítez, M; Alvarez-Buylla, ER; Hernández, S; Arzola, VA; Cocho, G. [“An epigenetic model for pigment patterning based on mechanical and cellular interactions,”](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.b.22007) JEZ Part B: Molecular and Developmental Evolution **318**: 209 (2012)
+1. Caballero, L; Benítez, M; Alvarez-Buylla, ER; Hernández, S; Arzola, VA; Cocho, G. [“An epigenetic model for pigment patterning based on mechanical and cellular interactions,”](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.b.22007) JEZ Part B: Molecular and Developmental Evolution **318**: 209 (2012).
+
+### 2011
+
+1. A. V. Arzola, Karen Volke-Sepúlveda, José L. Mateos, [“Experimental Control of Transpor and Current Reversals in a Deterministic Optical Rocking Ratchet,”](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.168104) Phys. Rev. Lett. **106**: 168104 (2011). [arXiv](https://arxiv.org/abs/1104.5171)
+
+### 2009
+
+1. A. V. Arzola, Karen Volke-Sepúlveda and José L. Mateos, [“Force mapping of an extended light pattern in an inclined plane: Deterministic regime,”] (https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-5-3429) Opt. Express **17**: 3429-3440 (2009).
