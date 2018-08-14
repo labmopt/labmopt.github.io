@@ -25,6 +25,7 @@ Dr. Esteban Velez Juárez
 
 ### Integrantes anteriores
 <img src="/grupo2015.jpg" width="400">
+
 Visitando el Iztaccihuatl. Febrero de 2015.
 
 * Yareni Ayala 2014-2016
