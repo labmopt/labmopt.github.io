@@ -34,5 +34,6 @@ Visitando el Iztaccihuatl. Febrero de 2015.
 * Jorge E. H. Cardoso Sacamoto 2016-2017
 * Arantza Berenice Zavala Martínez 2016-2017
 * Mario Villasante Barahona 2011-2012
+* Andrés de los Rios Sommer 2014-2015
 
 
