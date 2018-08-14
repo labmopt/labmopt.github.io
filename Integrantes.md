@@ -22,3 +22,17 @@ Dr. Esteban Velez Juárez
 * Berenice, licenciatura (tesis)
 * Karla, licenciatura (servicio social)
 * Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
+
+### Integrantes anteriores
+![GitHub Logo](/images/logo.png)
+Format: ![Foto del grupo (2016)](url)
+
+* Yareni Ayala 2014-2016
+* Enrique Puga Cital 2016-2017
+* Erick Estuardo Rodríguez Salas 2016-2017
+* Santiago López Huidobro 2016-2017
+* Jorge E. H. Cardoso Sacamoto 2016-2017
+* Arantza Berenice Zavala Martínez 2016-2017
+* Mario Villasante Barahona 2011-2012
+
+
