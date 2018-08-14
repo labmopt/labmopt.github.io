@@ -25,7 +25,7 @@ Dr. Esteban Velez Juárez
 
 ### Integrantes anteriores
 ![](/grupo2015.jpg)
-Format:![Visitando el Iztaccihuatl. Febrero de 2015.](url)
+Visitando el Iztaccihuatl. Febrero de 2015.
 
 * Yareni Ayala 2014-2016
 * Enrique Puga Cital 2016-2017
