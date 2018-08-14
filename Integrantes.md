@@ -24,7 +24,7 @@ Dr. Esteban Velez Juárez
 * Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
 
 ### Integrantes anteriores
-![](/grupo2015.jpg | width=100)
+![](/grupo2015.jpg){:height="36px" width="36px"}
 Visitando el Iztaccihuatl. Febrero de 2015.
 
 * Yareni Ayala 2014-2016
