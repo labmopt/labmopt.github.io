@@ -24,15 +24,21 @@ Dr. Esteban Velez Juárez
 * Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
 
 ### Integrantes anteriores
-<img src="/grupo2015.jpg" width="400">
 
+<img src="/grupo2015.jpg" width="400">
 Visitando el Iztaccihuatl. Febrero de 2015.
 
-* Yareni Ayala 2014-2016
+* Monserrat Álvarez 2014-2017
 * Enrique Puga Cital 2016-2017
 * Erick Estuardo Rodríguez Salas 2016-2017
 * Santiago López Huidobro 2016-2017
 * Jorge E. H. Cardoso Sacamoto 2016-2017
+* Emma Celina Brambila 2014-2017
+
+<img src="/grupo2015.jpg" width="400">
+Visitando el Iztaccihuatl. Febrero de 2015.
+
+* Yareni Ayala 2014-2016
 * Arantza Berenice Zavala Martínez 2016-2017
 * Mario Villasante Barahona 2011-2012
 * Andrés de los Rios Sommer 2014-2015
