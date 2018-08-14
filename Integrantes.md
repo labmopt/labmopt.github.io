@@ -15,6 +15,10 @@ Dra. Argelia Balbuena Ortega
 Dr. Esteban Velez Juárez
 
 ### Estudiantes
+
+<img src="/Grupo Manipulacion Optica-15.JPG" width="400">
+En el pedregal. Mayo de 2018.
+
 * M. Yadira Salazar Romero, doctorado
 * Sebastián Bucio Pacheco, licenciatura (tesis)
 * Jaime Donlucas Pérez, licenciatura (tesis)
@@ -24,9 +28,6 @@ Dr. Esteban Velez Juárez
 * Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
 
 ### Integrantes anteriores
-
-<img src="/grupo2015.jpg" width="400">
-Visitando el Iztaccihuatl. Febrero de 2015.
 
 * Monserrat Álvarez 2014-2017
 * Enrique Puga Cital 2016-2017
