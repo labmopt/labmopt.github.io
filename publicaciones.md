@@ -14,6 +14,7 @@ permalink: /publicaciones/
 
 1. Alejandro V. Arzola, Mario Villasante-Barahona, Karen Volke-Sepúlveda, Petr Jákl, Pavel Zemánek, [“Omnidirectional transport in fully reconfigurable 2D optical ratchets,”](https://journals.aps.org/prl/covers/118/13) Phys. Rev. Lett. **118**: 138002 (2017). [arXiv](https://arxiv.org/abs/1705.04000)
 <img src="/LX15487cvr.jpg" width="100" align="middle">
+
 [Optical lattices: Reconfigurable ratchet (Highlight in Nature Photonics).](https://www.nature.com/articles/nphoton.2017.68)
 
 
