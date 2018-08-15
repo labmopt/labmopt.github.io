@@ -30,6 +30,10 @@ En el pedregal. Mayo de 2018.
 
 ### Integrantes anteriores
 
+<img src="/Grupo Manipulacion Optica-15.JPG" width="400">
+
+Sushi hecho en casa (cena de fin de año). Diciembre de 2016.
+
 * Monserrat Álvarez 2014-2017
 * Enrique Puga Cital 2016-2017
 * Erick Estuardo Rodríguez Salas 2016-2017
