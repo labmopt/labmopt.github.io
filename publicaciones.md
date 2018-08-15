@@ -5,7 +5,7 @@ permalink: /publicaciones/
 ---
 
 ### 2018
-1. Laura Pérez García, Jaime DonLucas, Giorgio Volpe, Alejandro V. Arzola, and Giovanni Volpe, “High-Performance Reconstruction of Microscopic Force Fields from Brownian Trajectories”. [arxiv](https://arxiv.org/abs/1808.03879).
+1. Laura Pérez García, Jaime DonLucas, Giorgio Volpe, Alejandro V. Arzola, and Giovanni Volpe, “High-Performance Reconstruction of Microscopic Force Fields from Brownian Trajectories”. [arXiv](https://arxiv.org/abs/1808.03879).
 
 1. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv](https://arxiv.org/abs/1808.03879)
 
