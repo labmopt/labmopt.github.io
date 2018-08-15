@@ -24,9 +24,9 @@ Dr. Esteban Velez Juárez
 * Karla, licenciatura (servicio social)
 * Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
 
-<img src="/Grupo Manipulacion Optica-15.JPG" width="400" align="right">
+<p> <img src="/Grupo Manipulacion Optica-15.JPG" width="400" align="right"> En el pedregal. Mayo de 2018.</p>
 
-En el pedregal. Mayo de 2018.
+
 
 ### Integrantes anteriores
 
