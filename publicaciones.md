@@ -7,13 +7,13 @@ permalink: /publicaciones/
 ### 2018
 1.	Rubén D. Muelas-Hurtado, Joao L. Ealo,  Jhon F. Pazos-Ospina,  and Karen Volke-Sepúlveda,[“Generation of Multiple Vortex Beam by means of Active Diffraction Gratings,”](https://aip.scitation.org/doi/10.1063/1.5016864) Appl. Phys. Lett. **112**: 084101 (2018).
 
-2. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv](https://arxiv.org/abs/1808.03879)
+1. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv](https://arxiv.org/abs/1808.03879)
 
 ### 2017
 1. M. Yadira Salazar-Romero, Yareni A. Ayala, Emma C. Brambila, Luis A. López-Peña, K. Volke-Sepúlveda, Luke Sciberras, Antonmaria A. Minzoni, Roland A. Terborg, Juan P. Torres, “Steering and switching of soliton-like beams via interaction in a nanocolloid with positive polarizability,” Opt. Lett. **42**: 2487-2490 (2017). 
 
 <img src="/LX15487cvr.jpg" width="100" align="right">
-2. Alejandro V. Arzola, Mario Villasante-Barahona, Karen Volke-Sepúlveda, Petr Jákl, Pavel Zemánek, [“Omnidirectional transport in fully reconfigurable 2D optical ratchets,”](https://journals.aps.org/prl/covers/118/13) Phys. Rev. Lett. **118**: 138002 (2017). [arXiv](https://arxiv.org/abs/1705.04000)
+1. Alejandro V. Arzola, Mario Villasante-Barahona, Karen Volke-Sepúlveda, Petr Jákl, Pavel Zemánek, [“Omnidirectional transport in fully reconfigurable 2D optical ratchets,”](https://journals.aps.org/prl/covers/118/13) Phys. Rev. Lett. **118**: 138002 (2017). [arXiv](https://arxiv.org/abs/1705.04000)
 
 [Optical lattices: Reconfigurable ratchet (Highlight in Nature Photonics).](https://www.nature.com/articles/nphoton.2017.68)
 
@@ -21,7 +21,7 @@ permalink: /publicaciones/
 ### 2016
 1.	Yareni A. Ayala, Alejandro V. Arzola, K. Volke-Sepúlveda, “3D micromanipulation at low numerical aperture with a single light beam: The focused Bessel trap,” Opt. Lett. **41** (3): 614-617 (2016).
 
-2.	Yareni A. Ayala, Alejandro V. Arzola, K. Volke-Sepúlveda, “Comparative study of optical levitation traps: focused-Bessel beam vs Gaussian beams,” JOSA B **33** (6): 1060-1067 (2016).
+1.	Yareni A. Ayala, Alejandro V. Arzola, K. Volke-Sepúlveda, “Comparative study of optical levitation traps: focused-Bessel beam vs Gaussian beams,” JOSA B **33** (6): 1060-1067 (2016).
 
 3.	M. Y. Salazar-Romero, M. Alvares Ortíz, A. Balbuena Ortega, Y. A. Ayala, A. V. Arzola, H. Hernández-Cordero and K. Volke-Sepúlveda, “Nonlinear optical propierties of dielectric nanocoloids: particle size and concentration effects,” JNOPM **25** (4): 1650048 (2016).
 
