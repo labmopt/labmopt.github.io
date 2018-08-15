@@ -16,7 +16,7 @@ permalink: /publicaciones/
 
 [Optical lattices: Reconfigurable ratchet (Highlight in Nature Photonics).](https://www.nature.com/articles/nphoton.2017.68)
 
-<img src="/LX15487cvr.jpg" width="100" align="right">
+<img src="/LX15487cvr.jpg" width="100" align="middle">
 
 
 ### 2016
