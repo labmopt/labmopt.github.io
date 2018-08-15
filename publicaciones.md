@@ -24,21 +24,21 @@ permalink: /publicaciones/
 
 1.	Yareni A. Ayala, Alejandro V. Arzola, K. Volke-Sepúlveda, “Comparative study of optical levitation traps: focused-Bessel beam vs Gaussian beams,” JOSA B **33** (6): 1060-1067 (2016).
 
-3.	M. Y. Salazar-Romero, M. Alvares Ortíz, A. Balbuena Ortega, Y. A. Ayala, A. V. Arzola, H. Hernández-Cordero and K. Volke-Sepúlveda, “Nonlinear optical propierties of dielectric nanocoloids: particle size and concentration effects,” JNOPM **25** (4): 1650048 (2016).
+1.	M. Y. Salazar-Romero, M. Alvares Ortíz, A. Balbuena Ortega, Y. A. Ayala, A. V. Arzola, H. Hernández-Cordero and K. Volke-Sepúlveda, “Nonlinear optical propierties of dielectric nanocoloids: particle size and concentration effects,” JNOPM **25** (4): 1650048 (2016).
 
 ### 2015
 
 1.	A. Díaz de Anda, K. Volke-Sepúlveda, J. Flores, C. Sánchez-Pérez, L. Gutiérrez, “Study of coupled resonators in analogous wave systems: Mechanical, elastic, and optical,” Am.J.Phys. **83** (12): 1012-1018 (2015).
 
-2.	R. Colín-Rodríguez, J. Flores-Mijangos, S. Hernández-Gómez, R. Jáuregui, O. López-Hernández, C. Mojica-Casique, F Ponciano-Ojeda, F. Ramírez-Martínez, D. Sahagún, K. Volke-Sepúlveda and J. Jiménez-Mier, “Polarization effects in the interaction between multi-level atoms and two optical fields,” Phys. Script. **90**: 068017 (7pp) (2015).
+1.	R. Colín-Rodríguez, J. Flores-Mijangos, S. Hernández-Gómez, R. Jáuregui, O. López-Hernández, C. Mojica-Casique, F Ponciano-Ojeda, F. Ramírez-Martínez, D. Sahagún, K. Volke-Sepúlveda and J. Jiménez-Mier, “Polarization effects in the interaction between multi-level atoms and two optical fields,” Phys. Script. **90**: 068017 (7pp) (2015).
 
-3. Oto Brzobohatý, A. V. Arzola, Martin Šiler, Lukáš Chvátal, Petr Jákl, Stephen Simpson, Pavel Zemánek , ["Complex rotational dynamics of multiple spheroidal particles in a circularly polarized dual beam trap,"](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-23-6-7273) Optics Express, **23**: 7273-7287,  (2015).
+1. Oto Brzobohatý, A. V. Arzola, Martin Šiler, Lukáš Chvátal, Petr Jákl, Stephen Simpson, Pavel Zemánek , ["Complex rotational dynamics of multiple spheroidal particles in a circularly polarized dual beam trap,"](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-23-6-7273) Optics Express, **23**: 7273-7287,  (2015).
 
 ### 2014
 
 1. Jákl, P., Arzola, A. V.,  Siler, M., Chvátal, L., Volke-Sepulveda K. & Zemánek, P., [“Optical sorting of nonspherical and living microobjects in moving interference structures,”](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-22-24-29746) Optics Express **22**: 29746 (2014).
 
-2. Arzola, A. V., Jákl, P., Chvátal L., Jákl, P. & Zemánek, P.  [“Rotation, oscillation and hydrodynamic synchronization of optically trapped oblate spheroidal microparticles,”](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-22-13-16207) Optics Express **22**: 16207 (2014).
+1. Arzola, A. V., Jákl, P., Chvátal L., Jákl, P. & Zemánek, P.  [“Rotation, oscillation and hydrodynamic synchronization of optically trapped oblate spheroidal microparticles,”](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-22-13-16207) Optics Express **22**: 16207 (2014).
 
 ### 2013
 
