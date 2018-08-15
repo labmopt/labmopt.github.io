@@ -30,7 +30,7 @@ En el pedregal. Mayo de 2018.
 
 ### Integrantes anteriores
 
-<img src="/Grupo Manipulacion Optica-15.JPG" width="400">
+<img src="/PHOTO-2016-12-14-23-37-15.jpg" width="400">
 
 Sushi hecho en casa (cena de fin de año). Diciembre de 2016.
 
