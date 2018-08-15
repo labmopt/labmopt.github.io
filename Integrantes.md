@@ -25,7 +25,7 @@ Dr. Esteban Velez Juárez
 * Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
 
 <figure>
-  <img src="/Grupo Manipulacion Optica-15.JPG" width="400" align="right">
+  <img src="/Grupo Manipulacion Optica-15.JPG" width="400">
   <figcaption>En el pedregal. Mayo de 2018.</figcaption>
 </figure>
 
