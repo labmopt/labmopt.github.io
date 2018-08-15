@@ -13,6 +13,8 @@ permalink: /publicaciones/
 1. M. Yadira Salazar-Romero, Yareni A. Ayala, Emma C. Brambila, Luis A. López-Peña, K. Volke-Sepúlveda, Luke Sciberras, Antonmaria A. Minzoni, Roland A. Terborg, Juan P. Torres, “Steering and switching of soliton-like beams via interaction in a nanocolloid with positive polarizability,” Opt. Lett. **42**: 2487-2490 (2017). 
 
 2. Alejandro V. Arzola, Mario Villasante-Barahona, Karen Volke-Sepúlveda, Petr Jákl, Pavel Zemánek, [“Omnidirectional transport in fully reconfigurable 2D optical ratchets,”](https://journals.aps.org/prl/covers/118/13) Phys. Rev. Lett. **118**: 138002 (2017). [arXiv](https://arxiv.org/abs/1705.04000)
+<img src="/Grupo Manipulacion Optica-15.JPG" width="100">
+
 
 ### 2016
 1.	Yareni A. Ayala, Alejandro V. Arzola, K. Volke-Sepúlveda, “3D micromanipulation at low numerical aperture with a single light beam: The focused Bessel trap,” Opt. Lett. **41** (3): 614-617 (2016).
