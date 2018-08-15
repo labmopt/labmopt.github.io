@@ -32,9 +32,11 @@ Dr. Esteban Velez Juárez
 
 ### Integrantes anteriores
 
-<img src="/PHOTO-2016-12-14-23-37-15.jpg" width="400" align="right">
+<figure>
+  <img src="/PHOTO-2016-12-14-23-37-15.jpg" width="400">
+  <figcaption>Sushi hecho en casa (cena de fin de año). Diciembre de 2016.</figcaption>
+</figure>
 
-Sushi hecho en casa (cena de fin de año). Diciembre de 2016.
 
 * Monserrat Álvarez 2014-2017
 * Enrique Puga Cital 2016-2017
@@ -43,9 +45,10 @@ Sushi hecho en casa (cena de fin de año). Diciembre de 2016.
 * Jorge E. H. Cardoso Sacamoto 2016-2017
 * Emma Celina Brambila 2014-2017
 
-<img src="/grupo2015.jpg" width="400" align="right">
-
-Visitando el Iztaccihuatl. Febrero de 2015.
+<figure>
+  <img src="/grupo2015.jpg" width="400">
+  <figcaption>Visitando el Iztaccihuatl. Febrero de 2015.</figcaption>
+</figure>
 
 * Yareni Ayala 2014-2016
 * Arantza Berenice Zavala Martínez 2016-2017
