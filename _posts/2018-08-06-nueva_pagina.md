@@ -7,7 +7,10 @@ categories: jekyll update
 
 
 Bienvenidos al Laboratorio etc.
+
 Sitios de interés
+
 https://archive.org/
+
 https://osf.io/
 
