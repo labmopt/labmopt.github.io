@@ -7,7 +7,7 @@ categories: jekyll update
 
 
 Bienvenidos al Laboratorio etc.
-
-![Foto del grupo](/Grupo Manipulacion Optica-15.JPG)
-Format: ![Alt Text](url)
+Sitios de interés
+https://archive.org/
+https://osf.io/
 
