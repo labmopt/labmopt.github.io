@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publicaciones
-permalink: /publicaciones/
+title: Publications
+permalink: /publications/
 ---
 
 ### 2018
