@@ -15,7 +15,10 @@ Dra. Argelia Balbuena Ortega
 Dr. Esteban Velez Juárez
 
 ### Estudiantes
-
+<table>
+  <tr>
+    <td>
+      
 * M. Yadira Salazar Romero, doctorado
 * Sebastián Bucio Pacheco, licenciatura (tesis)
 * Jaime Donlucas Pérez, licenciatura (tesis)
@@ -24,16 +27,21 @@ Dr. Esteban Velez Juárez
 * Karla, licenciatura (servicio social)
 * Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
 
+</td>
+<td>
+
 <figure>
-  <img src="/Grupo Manipulacion Optica-15.JPG" width="400">
+  <img src="/imagenes/Grupo Manipulacion Optica-15.JPG" width="400">
   <figcaption>En el pedregal. Mayo de 2018.</figcaption>
 </figure>
-
+</td>
+</tr>
+</table>
 
 ### Integrantes anteriores
 
 <figure>
-  <img src="/PHOTO-2016-12-14-23-37-15.jpg" width="300">
+  <img src="/imagenes/PHOTO-2016-12-14-23-37-15.jpg" width="300">
   <figcaption>Sushi hecho en casa (cena de fin de año). Diciembre de 2016.</figcaption>
 </figure>
 
@@ -46,7 +54,7 @@ Dr. Esteban Velez Juárez
 * Emma Celina Brambila 2014-2017
 
 <figure>
-  <img src="/grupo2015.jpg" width="400">
+  <img src="/imagenes/grupo2015.jpg" width="400">
   <figcaption>Visitando el Iztaccihuatl. Febrero de 2015.</figcaption>
 </figure>
 
