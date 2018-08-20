@@ -46,7 +46,7 @@ Dr. Esteban Velez Juárez
 
 <figure>
   <img src="/imagenes/PHOTO-2016-12-14-23-37-15.jpg" width="300">
-  <figcaption>Home made sushi. December, 2016.</figcaption>
+  <figcaption>Sushi made at home. December, 2016.</figcaption>
 </figure>
 
 
