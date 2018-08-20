@@ -4,3 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<figure>
+  <img src="/imagenes/Grupo Manipulacion Optica-15.JPG" width="100%">
+  <figcaption>En el pedregal. Mayo de 2018.</figcaption>
+</figure>
