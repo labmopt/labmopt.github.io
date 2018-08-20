@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nuevo post"
+title:  "Presentación del laboratorio"
 date:   2018-08-20 13:32:00 -0500
 categories: jekyll update
 ---
