@@ -33,7 +33,7 @@ Dr. Esteban Velez Juárez
 ### Integrantes anteriores
 
 <figure>
-  <img src="/PHOTO-2016-12-14-23-37-15.jpg" width="400">
+  <img src="/PHOTO-2016-12-14-23-37-15.jpg" width="300">
   <figcaption>Sushi hecho en casa (cena de fin de año). Diciembre de 2016.</figcaption>
 </figure>
 
