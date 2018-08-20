@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Conferences"
+title:  "Upcoming conferences and schools:"
 date:   2018-08-20 14:05:00 -0500
 ---
 
-Upcoming conferences and schools:
 
 * Los caminos de la luz" 
