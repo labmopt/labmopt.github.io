@@ -6,11 +6,11 @@ permalink: /publicaciones/
 
 ### 2018
 
-1. Laura Pérez García, Jaime DonLucas, Giorgio Volpe, Alejandro V. Arzola, and Giovanni Volpe, “High-Performance Reconstruction of Microscopic Force Fields from Brownian Trajectories”. [arXiv]()
+1. Laura Pérez García, Jaime DonLucas, Giorgio Volpe, Alejandro V. Arzola, and Giovanni Volpe, “High-Performance Reconstruction of Microscopic Force Fields from Brownian Trajectories”. [arXiv:1808.05468](https://arxiv.org/abs/1808.05468)
 
-1. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv](https://arxiv.org/abs/1808.03879)
+1. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv:1808.03879](https://arxiv.org/abs/1808.03879)
 
-1. A. Balbuena Ortega, E. Brambila, V. López Gayaou, R. Delgado Macuil, A. Orduña Diaz, A. Vasquez Arzola and K. Volke-Sepúlveda, “Light-induced waveguides in a colloid of biosynthesized Gold Nanoparticles.” [arXiv]()
+1. A. Balbuena Ortega, E. Brambila, V. López Gayaou, R. Delgado Macuil, A. Orduña Diaz, A. Vasquez Arzola and K. Volke-Sepúlveda, “Light-induced waveguides in a colloid of biosynthesized Gold Nanoparticles.”
 
 1. Rubén D. Muelas-Hurtado, Joao L. Ealo,  Jhon F. Pazos-Ospina,  and Karen Volke-Sepúlveda,[“Generation of Multiple Vortex Beam by means of Active Diffraction Gratings,”](https://aip.scitation.org/doi/10.1063/1.5016864) Appl. Phys. Lett. **112**: 084101 (2018).
 
@@ -18,7 +18,7 @@ permalink: /publicaciones/
 ### 2017
 1. M. Yadira Salazar-Romero, Yareni A. Ayala, Emma C. Brambila, Luis A. López-Peña, K. Volke-Sepúlveda, Luke Sciberras, Antonmaria A. Minzoni, Roland A. Terborg, Juan P. Torres, “Steering and switching of soliton-like beams via interaction in a nanocolloid with positive polarizability,” Opt. Lett. **42**: 2487-2490 (2017). 
 
-1. Alejandro V. Arzola, Mario Villasante-Barahona, Karen Volke-Sepúlveda, Petr Jákl, Pavel Zemánek, [“Omnidirectional transport in fully reconfigurable 2D optical ratchets,”](https://journals.aps.org/prl/covers/118/13) Phys. Rev. Lett. **118**: 138002 (2017). [arXiv](https://arxiv.org/abs/1705.04000)
+1. Alejandro V. Arzola, Mario Villasante-Barahona, Karen Volke-Sepúlveda, Petr Jákl, Pavel Zemánek, [“Omnidirectional transport in fully reconfigurable 2D optical ratchets,”](https://journals.aps.org/prl/covers/118/13) Phys. Rev. Lett. **118**: 138002 (2017). [arXiv:1705.04000](https://arxiv.org/abs/1705.04000)
 
 <img src="/LX15487cvr.jpg" width="100" align="middle">
 
@@ -55,7 +55,7 @@ permalink: /publicaciones/
 
 ### 2011
 
-1. A. V. Arzola, Karen Volke-Sepúlveda, José L. Mateos, [“Experimental Control of Transpor and Current Reversals in a Deterministic Optical Rocking Ratchet,”](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.168104) Phys. Rev. Lett. **106**: 168104 (2011). [arXiv](https://arxiv.org/abs/1104.5171)
+1. A. V. Arzola, Karen Volke-Sepúlveda, José L. Mateos, [“Experimental Control of Transpor and Current Reversals in a Deterministic Optical Rocking Ratchet,”](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.168104) Phys. Rev. Lett. **106**: 168104 (2011). [arXiv:1104.5171](https://arxiv.org/abs/1104.5171)
 
 ### 2009
 
