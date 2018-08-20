@@ -7,7 +7,7 @@ permalink: /graduados/
 
 * 2018
   * Adrián Bartolo González, [Estudio numérico y experimental de solitones ópticos espaciales en un medio nanocoloidal](http://oreon.dgbiblio.unam.mx/F/96BQ97EFI32N8D2HB4FSDC6KGNRG7JY92CN2ADCDLK6GYIAUGV-24304?func=full-set-set&set_number=028917&set_entry=000001&format=999) (master).
-  * Laura Pérez García,[Determinación experimental de las fuerzas ópticas de un patrón de speckle](http://oreon.dgbiblio.unam.mx/F/6U1I24336XNU27AYMDHRJMD61N8QQAA49VJ9BBNQ87MDGLFC9L-33975?func=full-set-set&set_number=029070&set_entry=000002&format=999) (master).
+  * Laura Pérez García, [Determinación experimental de las fuerzas ópticas de un patrón de speckle](http://oreon.dgbiblio.unam.mx/F/6U1I24336XNU27AYMDHRJMD61N8QQAA49VJ9BBNQ87MDGLFC9L-33975?func=full-set-set&set_number=029070&set_entry=000002&format=999) (master).
 
 * 2017
   * María Monserrat Álvarez Ortíz, maestría
