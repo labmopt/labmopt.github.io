@@ -17,7 +17,7 @@ Dr. Esteban Velez Juárez
 ### Estudiantes
 <table>
   <tr>
-    <td>
+    <td width="50%">
  
 
 <ul>
@@ -35,7 +35,7 @@ Dr. Esteban Velez Juárez
 <td>
 
 <figure>
-  <img src="/imagenes/Grupo Manipulacion Optica-15.JPG" width="50%">
+  <img src="/imagenes/Grupo Manipulacion Optica-15.JPG" width="100%">
   <figcaption>En el pedregal. Mayo de 2018.</figcaption>
 </figure>
 </td>
