@@ -6,6 +6,6 @@ permalink: /related/
 
 
 
-https://archive.org/
+[Internet Archive](https://archive.org/)
 
-https://osf.io/
+[Open Science Framework](https://osf.io/)
