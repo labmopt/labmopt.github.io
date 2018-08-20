@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Laboratorio de Micromanipulación Óptica
-email: alejandro@fisica.unam.mx
+title: Laboratory of Optical Micromanipulation 
+email: alejandro@fisica.unam.mx and karen@fisica.unam.mx
 description: >- # this means to ignore newlines until "baseurl:"
-  Este es el sitio web del laboratorio de micromanipulación óptica del Instituto de Física de la UNAM
+  Web page of the Laboratory of Optical Micromanipulaion of the Institute of Physics at UNAM
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
