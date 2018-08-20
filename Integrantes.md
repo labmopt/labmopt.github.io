@@ -20,15 +20,15 @@ Dr. Esteban Velez Juárez
     <td>
  
 
-
- * M. Yadira Salazar Romero, doctorado
- * Sebastián Bucio Pacheco, licenciatura (tesis)
- * Jaime Donlucas Pérez, licenciatura (tesis)
- * Hugo Harleston, licenciatura (tesis)
- * Berenice, licenciatura (tesis)
- * Karla, licenciatura (servicio social)
- * Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
-
+<ul>
+  <li>M. Yadira Salazar Romero, doctorado</li>
+ <li>Sebastián Bucio Pacheco, licenciatura (tesis)</li>
+ <li>Jaime Donlucas Pérez, licenciatura (tesis)</li>
+ <li>Hugo Harleston, licenciatura (tesis)</li>
+ <li>Berenice, licenciatura (tesis)</li>
+ <li>Karla, licenciatura (servicio social)</li>
+ <li>Reynaldo J. Ortiz Guerrero, licenciatura (tesis)</li>
+</ul>
 
 
 </td>
