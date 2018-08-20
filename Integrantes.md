@@ -18,20 +18,24 @@ Dr. Esteban Velez Juárez
 <table>
   <tr>
     <td>
-      
-* M. Yadira Salazar Romero, doctorado
-* Sebastián Bucio Pacheco, licenciatura (tesis)
-* Jaime Donlucas Pérez, licenciatura (tesis)
-* Hugo Harleston, licenciatura (tesis)
-* Berenice, licenciatura (tesis)
-* Karla, licenciatura (servicio social)
-* Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
+ 
+
+
+ * M. Yadira Salazar Romero, doctorado
+ * Sebastián Bucio Pacheco, licenciatura (tesis)
+ * Jaime Donlucas Pérez, licenciatura (tesis)
+ * Hugo Harleston, licenciatura (tesis)
+ * Berenice, licenciatura (tesis)
+ * Karla, licenciatura (servicio social)
+ * Reynaldo J. Ortiz Guerrero, licenciatura (tesis)
+
+
 
 </td>
 <td>
 
 <figure>
-  <img src="/imagenes/Grupo Manipulacion Optica-15.JPG" width="400">
+  <img src="/imagenes/Grupo Manipulacion Optica-15.JPG" width="50%">
   <figcaption>En el pedregal. Mayo de 2018.</figcaption>
 </figure>
 </td>
