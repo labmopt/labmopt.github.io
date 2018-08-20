@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Conferencias"
+title:  "Conferences"
 date:   2018-08-20 14:05:00 -0500
 ---
 
-Conferenicas recomendadas:
+Upcoming conferences and schools:
 
 * Los caminos de la luz" 
