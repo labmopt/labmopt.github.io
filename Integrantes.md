@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Integrantes
-permalink: /integrantes/
+title: People
+permalink: /people/
 ---
 
-### Investigadores responsables
+### Researchers
 Dra. Karen Volke Sepúlveda
 
 Dr. Alejandro Vásquez Arzola
 
-### Investigadores posdoctorales
+### Posdoctoral researchers
 Dra. Argelia Balbuena Ortega
 
 Dr. Esteban Velez Juárez
 
-### Estudiantes
+### Students
 <table>
   <tr>
     <td width="50%">
@@ -36,7 +36,7 @@ Dr. Esteban Velez Juárez
 
 <figure>
   <img src="/imagenes/Grupo Manipulacion Optica-15.JPG" width="100%">
-  <figcaption>En el pedregal. Mayo de 2018.</figcaption>
+  <figcaption>At the pedregal. May, 2018.</figcaption>
 </figure>
 </td>
 </tr>
@@ -46,7 +46,7 @@ Dr. Esteban Velez Juárez
 
 <figure>
   <img src="/imagenes/PHOTO-2016-12-14-23-37-15.jpg" width="300">
-  <figcaption>Sushi hecho en casa (cena de fin de año). Diciembre de 2016.</figcaption>
+  <figcaption>Home made sushi. December, 2016.</figcaption>
 </figure>
 
 
@@ -59,7 +59,7 @@ Dr. Esteban Velez Juárez
 
 <figure>
   <img src="/imagenes/grupo2015.jpg" width="400">
-  <figcaption>Visitando el Iztaccihuatl. Febrero de 2015.</figcaption>
+  <figcaption>Hiking at the Iztaccihuatl. February, 2015.</figcaption>
 </figure>
 
 * Yareni Ayala 2014-2016
