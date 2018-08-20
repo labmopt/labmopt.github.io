@@ -42,7 +42,7 @@ Dr. Esteban Velez Juárez
 </tr>
 </table>
 
-### Integrantes anteriores
+### Former members of the group
 
 <figure>
   <img src="/imagenes/PHOTO-2016-12-14-23-37-15.jpg" width="300">
