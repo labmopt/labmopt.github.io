@@ -6,5 +6,5 @@ layout: home
 ---
 <figure>
   <img src="/imagenes/Grupo Manipulacion Optica-15.JPG" width="100%">
-  <figcaption>En el pedregal. Mayo de 2018.</figcaption>
+  <figcaption>At the Pedregal. May 2018.</figcaption>
 </figure>
