@@ -54,6 +54,7 @@ Dr. Esteban Velez Juárez
 * Santiago López Huidobro 2016-2017
 * Jorge E. H. Cardoso Sacamoto 2016-2017
 * Emma Celina Brambila 2014-2017
+
 <figure>
   <img src="/imagenes/Ratchet3.jpg" width="300">
   <figcaption>At the Pedregal. June 2017.</figcaption>
