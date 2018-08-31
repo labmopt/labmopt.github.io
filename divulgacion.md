@@ -12,6 +12,6 @@ permalink: /divulgacion/
 
 [La ciencia de la luz](/imagenes/La Ciencia de la Luz.png)
 
-[Interferencia y difraccion](/imagenes/Interferencia y Difraccion.png)
+[Interferencia y difracción](/imagenes/Interferencia y Difraccion.png)
 
 [Formación de imágenes](/imagenes/Formacion de imagenes.png)
