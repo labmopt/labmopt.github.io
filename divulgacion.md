@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Dissemination
-permalink: /graduados/
+permalink: /divulgacion/
 ---
 # Posters
 [Fuentes de luz](Formacion de imagenes.pdf)
