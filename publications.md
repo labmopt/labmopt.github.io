@@ -10,7 +10,7 @@ permalink: /publications/
 
 1. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv:1808.03879](https://arxiv.org/abs/1808.03879)
 
-1. A. Balbuena Ortega, E. Brambila, V. López Gayaou, R. Delgado Macuil, A. Orduña Diaz, A. Vasquez Arzola and K. Volke-Sepúlveda, “Light-induced waveguides in a colloid of biosynthesized Gold Nanoparticles.”
+1. A. Balbuena Ortega, E. Brambila, V. López Gayaou, R. Delgado Macuil, A. Orduña Diaz, A. Vasquez Arzola and K. Volke-Sepúlveda, “Light-induced waveguides in a colloid of biosynthesized Gold Nanoparticles.” [arXiv:1808.07002](https://arxiv.org/abs/1808.07002)
 
 1. Rubén D. Muelas-Hurtado, Joao L. Ealo,  Jhon F. Pazos-Ospina,  and Karen Volke-Sepúlveda,[“Generation of Multiple Vortex Beam by means of Active Diffraction Gratings,”](https://aip.scitation.org/doi/10.1063/1.5016864) Appl. Phys. Lett. **112**: 084101 (2018).
 
