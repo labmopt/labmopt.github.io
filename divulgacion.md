@@ -8,7 +8,7 @@ permalink: /divulgacion/
 
 [Polarización y birrefringencia](/imagenes/Polarizacion Birrefringencia.png)
 
-[Dispersión, absorcion y colores](/imagenes/Dispersion absorcion y colores.png)
+[Dispersión, absorción y colores](/imagenes/Dispersion absorcion y colores.png)
 
 [La ciencia de la luz](/imagenes/La Ciencia de la Luz.png)
 
