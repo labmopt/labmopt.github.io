@@ -12,8 +12,8 @@ permalink: /research/
 # Dynamics of self propelled particles activated by light
 # Non linear dynamics of microscopic systems
 <figure>
-  <img src="/imagenes/Fig_3a.eps" width="300">
-  <figcaption>Sushi made at home. December, 2016.</figcaption>
+  <img src="/imagenes/Fig_3a.png" width="300">
+  <figcaption>Trajectories of a set of colloidal particles in a ratchet potential.</figcaption>
 </figure>
 
 
