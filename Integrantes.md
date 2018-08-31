@@ -36,18 +36,23 @@ Dr. Esteban Velez Juárez
 
 <figure>
   <img src="/imagenes/Grupo Manipulacion Optica-15.JPG" width="100%">
-  <figcaption>At the pedregal. May, 2018.</figcaption>
+  <figcaption>At the pedregal. May 2018.</figcaption>
 </figure>
 </td>
 </tr>
 </table>
 
 ### Former members of the group
+<figure>
+  <img src="/imagenes/Ratchet3.jpg" width="300">
+  <figcaption>At the Pedregal. December 2017.</figcaption>
+</figure>
 
 <figure>
   <img src="/imagenes/PHOTO-2016-12-14-23-37-15.jpg" width="300">
-  <figcaption>Sushi made at home. December, 2016.</figcaption>
+  <figcaption>Sushi made at home. December 2016.</figcaption>
 </figure>
+
 
 
 * Monserrat Álvarez 2014-2017
@@ -59,7 +64,7 @@ Dr. Esteban Velez Juárez
 
 <figure>
   <img src="/imagenes/grupo2015.jpg" width="400">
-  <figcaption>Hiking at the Iztaccihuatl. February, 2015.</figcaption>
+  <figcaption>Hiking at the Iztaccihuatl. February 2015.</figcaption>
 </figure>
 
 * Yareni Ayala 2014-2016
