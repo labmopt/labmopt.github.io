@@ -45,7 +45,7 @@ Dr. Esteban Velez Juárez
 ### Former members of the group
 <figure>
   <img src="/imagenes/Ratchet3.jpg" width="300">
-  <figcaption>At the Pedregal. December 2017.</figcaption>
+  <figcaption>At the Pedregal. June 2017.</figcaption>
 </figure>
 
 <figure>
