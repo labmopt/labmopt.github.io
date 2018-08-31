@@ -26,7 +26,7 @@ Dr. Esteban Velez Juárez
  <li>Jaime Donlucas Pérez, licenciatura (tesis)</li>
  <li>Hugo Harleston Aguirre, licenciatura (tesis)</li>
  <li>Berenice García Rodríguez, licenciatura (tesis)</li>
- <li>Karla Corina Hernandez Ramos, licenciatura (servicio social)</li>
+ <li>Karla Corina Hernández Ramos, licenciatura (servicio social)</li>
  <li>Reynaldo J. Ortiz Guerrero, licenciatura (tesis)</li>
 </ul>
 
