@@ -123,4 +123,4 @@ permalink: /publications/
 
 ### 1997
 
-1. E. Ley-Koo, K. VolkeSepúlveda, [“The Helium Atom in a Semi-Infinite Space Limited by a Paraboloidal Boundary,”](https://doi.org/10.1002/(SICI)1097-461X(1997)65:3<269::AID-QUA7>3.0.CO;2-U) INTERNATIONAL J. Quant. Chem. **65**: 269 (1997).
+1. E. Ley-Koo, K. VolkeSepúlveda, [“The Helium Atom in a Semi-Infinite Space Limited by a Paraboloidal Boundary,”](https://doi.org/10.1002/(SICI)1097-461X(1997)65:3<269::AID-QUA7>3.0.CO;2-U) Int. J. Quant. Chem. **65**: 269 (1997).
