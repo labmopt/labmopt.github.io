@@ -26,7 +26,7 @@ github_username:  labmopt
 markdown: kramdown
 theme: minima
 
-plugins:
+gems:
   - jekyll-feed
 #plugins:
 #  - jekyll-feed
