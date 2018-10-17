@@ -5,7 +5,7 @@ permalink: /events/
 
 * [Fiesta de las Ciencias y las Humanidades](http://www.dgdc.unam.mx/lafiesta/)
 
-Universum, Museo de la luz
+Universum y Museo de la luz
 
 26 y 27 de octubre 2018
 
