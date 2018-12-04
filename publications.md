@@ -7,7 +7,7 @@ permalink: /publications/
 ### 2018
 1. Natsuko Rivera-Yoshida, Alejandro V. Arzola, Juan A. Arias Del Angel, Alessio Franci, Michael Travisano, Ana E. Escalante, Mariana Benítez, "Plastic multicellular development of Myxococcus xanthus: genotype-environment interactions in a physical gradient", [bioRxiv: /doi.org/10.1101/465203 ](https://www.biorxiv.org/content/early/2018/11/07/465203)
 
-1. Laura Pérez García, Jaime DonLucas, Giorgio Volpe, Alejandro V. Arzola, and Giovanni Volpe, “High-Performance Reconstruction of Microscopic Force Fields from Brownian Trajectories”,  (2018). [arXiv:1808.05468](https://arxiv.org/abs/1808.05468) [pdf](/pubs/1808.05468.pdf)
+1. Laura Pérez García, Jaime DonLucas, Giorgio Volpe, Alejandro V. Arzola, and Giovanni Volpe, [“High-Performance Reconstruction of Microscopic Force Fields from Brownian Trajectories”,](https://rdcu.be/bcqhJ)  Nature Communications (2018). [arXiv:1808.05468](https://arxiv.org/abs/1808.05468) **9**, Article number: 5166 (2018).
 
 1. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv:1808.03879](https://arxiv.org/abs/1808.03879)
 
