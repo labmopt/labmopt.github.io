@@ -5,15 +5,17 @@ permalink: /publications/
 ---
 
 ### 2018
-1. Natsuko Rivera-Yoshida, Alejandro V. Arzola, Juan A. Arias Del Angel, Alessio Franci, Michael Travisano, Ana E. Escalante, Mariana Benítez, "Plastic multicellular development of Myxococcus xanthus: genotype-environment interactions in a physical gradient", [bioRxiv: /doi.org/10.1101/465203 ](https://www.biorxiv.org/content/early/2018/11/07/465203)
-
 1. Laura Pérez García, Jaime DonLucas, Giorgio Volpe, Alejandro V. Arzola, and Giovanni Volpe, [“High-Performance Reconstruction of Microscopic Force Fields from Brownian Trajectories”,](https://rdcu.be/bcqhJ)  Nature Communications **9**, Article number: 5166 (2018).
-
-1. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv:1808.03879](https://arxiv.org/abs/1808.03879)
 
 1. A. Balbuena Ortega, E. Brambila, V. López Gayaou, R. Delgado Macuil, A. Orduña Diaz, A. Vasquez Arzola and K. Volke-Sepúlveda, [“Light-induced waveguides in a colloid of biosynthesized Gold Nanoparticles,”](https://www.tandfonline.com/doi/abs/10.1080/09500340.2018.1549287?journalCode=tmop20) Journal of Modern Optics **0**, 1-10 (2018). [arXiv](https://arxiv.org/abs/1808.07002)
 
 1. Rubén D. Muelas-Hurtado, Joao L. Ealo,  Jhon F. Pazos-Ospina,  and Karen Volke-Sepúlveda,[“Generation of Multiple Vortex Beam by means of Active Diffraction Gratings,”](https://aip.scitation.org/doi/10.1063/1.5016864) Appl. Phys. Lett. **112**: 084101 (2018).
+
+1. Natsuko Rivera-Yoshida, Alejandro V. Arzola, Juan A. Arias Del Angel, Alessio Franci, Michael Travisano, Ana E. Escalante, Mariana Benítez, "Plastic multicellular development of Myxococcus xanthus: genotype-environment interactions in a physical gradient", [bioRxiv: /doi.org/10.1101/465203 ](https://www.biorxiv.org/content/early/2018/11/07/465203)
+
+1. Francisco J. Sevilla, Enrique Puga Cital y Alejandro V. Arzola, “Stationary Superstatistics Distributions of Trapped Run-and-Tumble particles”. [arXiv:1808.03879](https://arxiv.org/abs/1808.03879)
+
+
 
 
 ### 2017
