@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ### 2019
-1. Alejandro V. Arzola, Lukas Chvatal, Petr Jakl and Pavel Zemanek, ["spin to orbital light momentum 
+1. Alejandro V. Arzola, Lukaš  Chvátal, Petr Jákl and Pavel Zemánek, ["spin to orbital light momentum 
 conversion visualized by particle trajectory",](https://rdcu.be/bqnLi) Scientific Reports **9**, 4127 (2019). 
 
 1. A. Balbuena Ortega, S. Bucio-Pacheco, S. Lopez-Huidobro, L. Perez-Garcia, F. J. Poveda-Cuevas, J. A. Seman, A. V. Arzola, and K. Volke-Sepúlveda,["Creation of optical speckle by randomizing a vortex-lattice",](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-27-4-4105) Optics Express **27**, 4105 (2019).
