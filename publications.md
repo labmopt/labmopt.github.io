@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 ### 2019
+1. Natsuko Rivera-Yoshida, Alejandro V. Arzola, Juan A. Arias Del Angel, Alessio Franci, Michael Travisano, Ana E. Escalanteand Mariana Benítez, ["Plastic multicellular development of Myxococcus xanthus: genotype–environment interactions in a physical gradient"](http://dx.doi.org/10.1098/rsos.181730), Royal Society Open Science (2019).
+
+
 1. A. V. Arzola, L.  Chvátal, Petr Jákl and P. Zemánek, ["spin to orbital light momentum 
 conversion visualized by particle trajectory",](https://rdcu.be/bqnLi) Scientific Reports **9**, 4127 (2019). 
 
