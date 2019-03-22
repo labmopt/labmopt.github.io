@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ### 2019
-1. Natsuko Rivera-Yoshida, Alejandro V. Arzola, Juan A. Arias Del Angel, Alessio Franci, Michael Travisano, Ana E. Escalanteand Mariana Benítez, ["Plastic multicellular development of Myxococcus xanthus: genotype–environment interactions in a physical gradient"](http://dx.doi.org/10.1098/rsos.181730), R. Soc. open sci. 6: 181730 (2019).
+1. Natsuko Rivera-Yoshida, Alejandro V. Arzola, Juan A. Arias Del Angel, Alessio Franci, Michael Travisano, Ana E. Escalanteand Mariana Benítez, ["Plastic multicellular development of Myxococcus xanthus: genotype–environment interactions in a physical gradient"](http://dx.doi.org/10.1098/rsos.181730), R. Soc. open sci. 6: 181730 (2019). [bioRxiv: /doi.org/10.1101/465203 ](https://www.biorxiv.org/content/early/2018/11/07/465203)
 
 
 1. A. V. Arzola, L.  Chvátal, Petr Jákl and P. Zemánek, ["spin to orbital light momentum 
@@ -21,8 +21,6 @@ conversion visualized by particle trajectory",](https://rdcu.be/bqnLi) Scientifi
 1. Laura Pérez García, Jaime DonLucas, Giorgio Volpe, Alejandro V. Arzola, and Giovanni Volpe, [“High-Performance Reconstruction of Microscopic Force Fields from Brownian Trajectories”,](https://rdcu.be/bcqhJ)  Nature Communications **9**, Article number: 5166 (2018).
 
 1. Rubén D. Muelas-Hurtado, Joao L. Ealo,  Jhon F. Pazos-Ospina,  and Karen Volke-Sepúlveda,[“Generation of Multiple Vortex Beam by means of Active Diffraction Gratings,”](https://aip.scitation.org/doi/10.1063/1.5016864) Appl. Phys. Lett. **112**: 084101 (2018).
-
-1. Natsuko Rivera-Yoshida, Alejandro V. Arzola, Juan A. Arias Del Angel, Alessio Franci, Michael Travisano, Ana E. Escalante, Mariana Benítez, "Plastic multicellular development of Myxococcus xanthus: genotype-environment interactions in a physical gradient", [bioRxiv: /doi.org/10.1101/465203 ](https://www.biorxiv.org/content/early/2018/11/07/465203)
 
 ### 2017
 1. M. Yadira Salazar-Romero, Yareni A. Ayala, Emma C. Brambila, Luis A. López-Peña, K. Volke-Sepúlveda, Luke Sciberras, Antonmaria A. Minzoni, Roland A. Terborg, Juan P. Torres, [“Steering and switching of soliton-like beams via interaction in a nanocolloid with positive polarizability,”](https://doi.org/10.1364/OL.42.002487) Opt. Lett. **42**: 2487-2490 (2017). 
