@@ -7,7 +7,7 @@ permalink: /publications/
 1. Natsuko Rivera-Yoshida, Alejandro V. Arzola, Juan A. Arias Del Angel, Alessio Franci, Michael Travisano, Ana E. Escalanteand Mariana Benítez, ["Plastic multicellular development of Myxococcus xanthus: genotype–environment interactions in a physical gradient"](http://dx.doi.org/10.1098/rsos.181730), R. Soc. open sci. 6: 181730 (2019). [bioRxiv: /doi.org/10.1101/465203 ](https://www.biorxiv.org/content/early/2018/11/07/465203)
 
 
-1. A. V. Arzola, L.  Chvátal, Petr Jákl and P. Zemánek, ["spin to orbital light momentum 
+1. A. V. Arzola, L.  Chvátal, Petr Jákl and P. Zemánek, ["Spin to orbital light momentum 
 conversion visualized by particle trajectory",](https://rdcu.be/bqnLi) Scientific Reports **9**, 4127 (2019). 
 
 1. A. Balbuena Ortega, S. Bucio-Pacheco, S. Lopez-Huidobro, L. Perez-Garcia, F. J. Poveda-Cuevas, J. A. Seman, A. V. Arzola, and K. Volke-Sepúlveda,["Creation of optical speckle by randomizing a vortex-lattice",](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-27-4-4105) Optics Express **27**, 4105 (2019).
