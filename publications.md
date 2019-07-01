@@ -16,7 +16,7 @@ conversion visualized by particle trajectory",](https://rdcu.be/bqnLi) Scientifi
 
 
 ### 2018
-1. A. Balbuena Ortega, E. Brambila, V. López Gayaou, R. Delgado Macuil, A. Orduña Diaz, A. Vasquez Arzola and K. Volke-Sepúlveda, [“Light control through a nonlinear lensing effect in a colloid of biosynthesized gold nanoparticles,”](https://www.tandfonline.com/doi/abs/10.1080/09500340.2018.1549287?journalCode=tmop20) Journal of Modern Optics **66**, 502 (2019). [arXiv](https://arxiv.org/abs/1808.07002)
+1. A. Balbuena Ortega, E. Brambila, V. López Gayaou, R. Delgado Macuil, A. Orduña Diaz, A. Vasquez Arzola and K. Volke-Sepúlveda, [“Light control through a nonlinear lensing effect in a colloid of biosynthesized gold nanoparticles,”](https://www.tandfonline.com/doi/abs/10.1080/09500340.2018.1549287?journalCode=tmop20) Journal of Modern Optics **66**, 502 (2018). [arXiv](https://arxiv.org/abs/1808.07002)
 
 1. Laura Pérez García, Jaime DonLucas, Giorgio Volpe, Alejandro V. Arzola, and Giovanni Volpe, [“High-Performance Reconstruction of Microscopic Force Fields from Brownian Trajectories”,](https://rdcu.be/bcqhJ)  Nature Communications **9**, Article number: 5166 (2018).
 
