@@ -21,13 +21,15 @@ Dr. Esteban Velez Juárez
  
 
 <ul>
-  <li>M. Yadira Salazar Romero, doctorado</li>
- <li>Sebastián Bucio Pacheco, licenciatura (tesis)</li>
- <li>Jaime Donlucas Pérez, licenciatura (tesis)</li>
- <li>Hugo Harleston Aguirre, licenciatura (tesis)</li>
- <li>Berenice García Rodríguez, licenciatura (tesis)</li>
- <li>Karla Corina Hernández Ramos, licenciatura (servicio social)</li>
- <li>Reynaldo J. Ortiz Guerrero, licenciatura (tesis)</li>
+  <li>Félix Esteban Torres González, licenciatura</li>
+ <li>Jordan Estrada, maestría</li>
+ <li>M. Yadira Salazar Romero, doctorado</li>
+ <li>Sebastián Bucio Pacheco, licenciatura</li>
+ <li>Jaime Donlucas Pérez, licenciatura</li>
+ <li>Hugo Harleston Aguirre, licenciatura</li>
+ <li>Berenice García Rodríguez, licenciatura</li>
+ <li>Karla Corina Hernández Ramos, licenciatura</li>
+ <li>Reynaldo J. Ortiz Guerrero, licenciatura</li>
 </ul>
 
 
