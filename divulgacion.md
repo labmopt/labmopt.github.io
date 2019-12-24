@@ -3,6 +3,9 @@ layout: page
 title: Public Dissemination
 permalink: /divulgacion/
 ---
+# Manual
+[Peripecias de la luz](/pubs/Experimentos_Manual_Peripecias.pdf)
+
 # Posters
 [Fuentes de luz](/imagenes/Formacion de imagenes.png)
 
