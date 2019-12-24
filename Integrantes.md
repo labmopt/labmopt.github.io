@@ -23,14 +23,14 @@ Natsuko Rivera Yoshida
  
 
 <ul>
-      <li>Pablo Adrian Hernandez Munguia, licenciatura</li>
-    <li>Pablo Adrian Hernandez Munguia, licenciatura</li>
+   <li>Pablo Adrian Hernandez Munguia, licenciatura</li>
   <li>Luisa del Carmen García Canseco, licenciatura</li>
+  <li>Javier Tello Marmolejo, licenciatura</li>
   <li>Félix Esteban Torres González, licenciatura</li>
- <li>Jordan Estrada, maestría</li> 
- <li>Berenice García Rodríguez, licenciatura</li>
+ <li>Jordan Estrada Morales, maestría</li> 
+ <li>Berenice García Rodríguez, maestría</li>
  <li>Karla Corina Hernández Ramos, licenciatura</li>
- <li>Reynaldo J. Ortiz Guerrero, licenciatura</li>
+ <li>Reynaldo J. Ortiz Guerrero, maestría</li>
 </ul>
 
 
