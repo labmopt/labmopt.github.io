@@ -11,11 +11,11 @@ Alejandro Vásquez Arzola
 
 Hernando Magallanes González
 
-### Posdoctoral researchers
 Argelia Balbuena Ortega
 
-Esteban Velez Juárez
+### Posdoctoral researchers
 
+Natsuko Rivera Yoshida
 ### Students
 <table>
   <tr>
@@ -23,12 +23,11 @@ Esteban Velez Juárez
  
 
 <ul>
+      <li>Pablo Adrian Hernandez Munguia, licenciatura</li>
+    <li>Pablo Adrian Hernandez Munguia, licenciatura</li>
+  <li>Luisa del Carmen García Canseco, licenciatura</li>
   <li>Félix Esteban Torres González, licenciatura</li>
- <li>Jordan Estrada, maestría</li>
- <li>M. Yadira Salazar Romero, doctorado</li>
- <li>Sebastián Bucio Pacheco, licenciatura</li>
- <li>Jaime Donlucas Pérez, licenciatura</li>
- <li>Hugo Harleston Aguirre, licenciatura</li>
+ <li>Jordan Estrada, maestría</li> 
  <li>Berenice García Rodríguez, licenciatura</li>
  <li>Karla Corina Hernández Ramos, licenciatura</li>
  <li>Reynaldo J. Ortiz Guerrero, licenciatura</li>
@@ -48,8 +47,12 @@ Esteban Velez Juárez
 
 ### Former members of the group
 
-
-
+* Samuel Amat Shapiro
+* M. Yadira Salazar Romero 2011-2019
+* Sebastián Bucio Pacheco 2018-2019
+* Jaime Donlucas Pérez 2018-2019
+* Hugo Harleston Aguirre 2018-2019
+* Esteban Velez Juárez 2018-2019
 * Laura Pérez García 2010-2018
 * Adrián Bartolo González 2015-2018
 * Monserrat Álvarez 2014-2017
